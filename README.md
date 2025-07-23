@@ -11,6 +11,19 @@ npm run develop
 # or
 yarn develop
 ```
+other usefull commands:
+Generate new api, controller, model, policy, etc.
+```
+npx strapi generate
+# or
+yarn strapi generate
+```
+List middlewares
+```
+npx strapi middlewares:list
+# or
+yarn strapi middlewares:list
+```
 
 ### `start`
 
